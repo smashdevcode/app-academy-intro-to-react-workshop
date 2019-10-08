@@ -289,8 +289,8 @@ React generates files into a `build` folder
 
 The "Basic" version is the version that we built in this exercise. The "Complete" version implements a basic search feature and includes styles and images.
 
-* [Basic](/demos/basic/react-cli)
-* [Complete](/demos/complete/react-cli)
+* [Basic](/demos/basic)
+* [Complete](/demos/complete)
 
 ## Additional Practice
 
